@@ -3,8 +3,9 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on any web-based job
 - 📫 How to reach me eziashifavour@gmail.com
+- I'm a crypto enthusiast. Currently learning web 2 looking forward to mastering web3
 
 <!---
-brainbox-feivel/brainbox-feivel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+brainbox-feel/brainbox-feel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
